@@ -1,4 +1,5 @@
 syntax on
+
 set background=dark
 set ruler                     " show the line number on the bar
 set more                      " use more prompt
