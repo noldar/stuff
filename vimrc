@@ -63,3 +63,4 @@ endif
 "nmap <LocalLeader>pp :set paste!<cr>
 "!!!
 "###
+"merge
