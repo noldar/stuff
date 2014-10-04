@@ -1,6 +1,6 @@
 syntax on
-
 set background=dark
+color desertEx
 set ruler                     " show the line number on the bar
 set more                      " use more prompt
 set autoread                  " watch for file changes
@@ -8,7 +8,6 @@ set autoread                  " watch for file changes
 set hidden
 set noautowrite               " don't automagically write on :next
 set lazyredraw                " don't redraw when don't have to
-set showmatch                 " set show matching parenthesis
 set showmode
 set showcmd
 set nocompatible              " vim, not vi
