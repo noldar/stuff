@@ -87,4 +87,5 @@ source ~/repo/zsh-git-prompt/zshrc.sh
 #PROMPT='%{$fg_bold[blue]%n%{$reset_color%}%{$fg_bold[yellow]@%{$reset_color%}%{$fg_bold[cyan]%m%{$reset_color%}: %{$fg_bold[blue]%}%D{[%T]}%{$reset_color%} %~ $(git_super_status) %{$fg_bold[blue]%}->%{$fg_bold[blue]%} %#%{$reset_color%} '
 
 
+
 PROMPT='%B%{$fg[green]%}%n%{$reset_color%}%{$fg[yellow]@%{$resetcolr%}%{$fg_bold[blue]%}%m%{$reset_color%} %{$fg_bold[green]%T%{$resetcolor%} %{$fg_bold[yellow]%}%~%{$reset_color%} $(git_super_status)%{$fg_bold[blue]--> %# %{$reset_color%}'
